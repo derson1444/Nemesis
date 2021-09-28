@@ -7,4 +7,7 @@ h=int(input("Ingrese la altura:"))
 area=((BM*bm)*h)/2
 #Datos de Salida
 print("El area del Trapecio es:", area,"m2")
-print(f" El ares del Trapecio es:{area}."2")
+
+
+
+
