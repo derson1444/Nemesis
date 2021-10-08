@@ -62,6 +62,9 @@ public static void main(String[] arg){
 //algoritmoRegalos();
   pagoPolizas();
 }
+<<<<<<< HEAD
 
 }
+=======
+>>>>>>> 260c70a818a2151e0a88c434f709e2310ee33f77
 
