@@ -7,7 +7,7 @@ public class Ejercicio_4_6 {
     int i;
     double salario_inicial, salario_recibido;
     //Datos de Entrada
-    System.out.println("***** Ejercicio 4.6 ******");
+    System.out.println("***** Ejercicio 5 ******");
     double salarioFin=1500.00;
     //Proceso y Datos de Salida
     
